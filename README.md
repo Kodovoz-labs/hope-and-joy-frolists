@@ -20,7 +20,8 @@ This repository contains a static marketing website for a florist business. It i
 
 ```text
 .
-├── Index.html          # Main storefront page and embedded CSS/JS
+├── index.html          # Main storefront page and embedded CSS/JS
+├── LICENSE             # MIT License
 └── README.md           # Project documentation
 ```
 
@@ -77,7 +78,7 @@ Most of these are embedded directly inside `Index.html` in the HTML and script s
 
 ## License
 
-This project does not currently include a license file. If you intend to publish or distribute it publicly, consider adding an appropriate license such as MIT.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
 
 ## Contact
 
